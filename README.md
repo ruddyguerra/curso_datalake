@@ -1,4 +1,4 @@
-# 🧪 Proyecto Data Lake con Docker: MinIO + PySpark + Airflow + Trino + DuckDB
+# 🧪 Proyecto Data Lake con: MinIO + PySpark + Airflow + Trino + DuckDB
 
 Este proyecto levanta un entorno completo para simular un Data Lake moderno en tu máquina local utilizando contenedores Docker.
 

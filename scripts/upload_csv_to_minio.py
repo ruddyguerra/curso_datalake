@@ -18,4 +18,4 @@ except s3.exceptions.ClientError as e:
         raise
 
 s3.upload_file('./data/demo.csv', bucket_name, 'demo.csv')
-print("✅ CSV subido a MinIO con éxito.")
+print("CSV subido a MinIO con éxito.")
