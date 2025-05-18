@@ -111,6 +111,10 @@ python scripts/query_duckdb.py
 #### ✅ En Trino
 
 ```bash
+docker-compose up -d trino
+```
+
+```bash
 docker exec -it trino trino
 ```
 
