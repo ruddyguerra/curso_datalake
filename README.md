@@ -118,6 +118,12 @@ docker-compose up -d trino
 docker exec -it trino trino
 ```
 
+Por si se necesita 
+
+```bash
+docker rm trino
+```
+
 Y ejecuta:
 
 ```sql
