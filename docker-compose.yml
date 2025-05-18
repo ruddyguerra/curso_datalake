@@ -22,7 +22,6 @@ services:
       - "8081:8080"
     volumes:
       - ./trino/etc:/etc/trino
-      - ./trino/data:/data/trino  # <-- Agrega esta línea
 
   airflow:
     image: apache/airflow:2.8.1
